@@ -1,13 +1,16 @@
-       prpoduct                        quantity
-raspberry pico                            1
-LM358 ic                                  1
-ER_OLEDM0.91_1x-I2C                       1
-active buzzer                             1
-photo diode                               1
-ir LED                                    1
-100k potentiometar                        1
-220ohm resistor                           1
-100k resistor                             1
-2.54mm Pitch Female Header Connector      4
-custom pcb                                1
-switch                                    1
+       prpoduct                        quantity                                                link
+raspberry pico                            1           https://makerbazar.in/products/raspberry-pi-pico-development-boards         
+LM358 ic                                  1           https://makerbazar.in/products/low-power-operational-amplifier-ics-op-amp-chip?variant=48251014185200
+ER_OLEDM0.91_1x-I2C                       1           https://makerbazar.in/products/0-91-inch-i2c-iic-serial-4-pin-oled-display-module-blue
+active buzzer                             1           https://makerbazar.in/products/small-active-buzzer?variant=40319276384407
+photo diode                               1           https://makerbazar.in/products/ir-receiver-transistor-led?variant=42847315460336
+ir LED                                    1           https://makerbazar.in/products/ir-receiver-transistor-led?variant=42847315460336
+100k potentiometar                        1           https://makerbazar.in/products/3296-trimpot-vertical-trimmer-potentiometer?variant=44839384580336
+220ohm resistor                           1           https://makerbazar.in/products/carbon-film-resistor-dip-1-4-watt-resistance-through-hole-1-to-999ohm?variant=46167685759216
+100k resistor                             1           https://makerbazar.in/products/carbon-film-resistor-dip-1-4-watt-resistance-through-hole-1-to-999ohm?variant=46167685759216
+2.54mm Pitch Female Header Connector      4           https://makerbazar.in/products/female-berg-strip-2-54mm-header-pin
+custom pcb                                1           https://cart.jlcpcb.com/shopcart/cart
+switch                                    1           https://makerbazar.in/products/3-pin-dip-mini-slide-switch-through-hole-pcb-slide-button?variant=46800235790576
+is socket                                 1           https://makerbazar.in/products/dip-ic-narrow-socket-base-adaptor?variant=48658305155312
+3.7 volt lipo battery                     1           https://makerbazar.in/products/generic-402030-3-7v-300mah-lipo-battery-single-cell-lithium-polymer-battery
+tp4056 battery charging module            1           https://makerbazar.in/products/tc4056-1a-5v-6v-4-2v-micro-usb-with-current-protection-lithium-battery-charging-module
